@@ -1,0 +1,9 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #333333
+};
+
+h1{
+  background-image: url(..img/sobre-background.jpg);
+  background-color: black;
+};
